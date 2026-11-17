@@ -108,9 +108,6 @@ Flutter app that simulates the South African K53 learner's licence test, with a 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PatrickS-04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&text_color=c9d1d9&ring_color=ff1f3d" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickS-04&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff1f3d&text_color=c9d1d9" height="165" />
-
 <img src="https://streak-stats.demolab.com?user=PatrickS-04&background=0d1117&ring=ff1f3d&fire=ff1f3d&currStreakLabel=ff1f3d&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickS-04&bg_color=0d1117&color=ff1f3d&line=ff1f3d&point=ffffff&area=true&area_color=ff1f3d&hide_border=true" width="100%" />
