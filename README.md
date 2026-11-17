@@ -17,9 +17,9 @@
 
 ---
 
-## `> cat about.txt`
+## About
 
-I was a Computer and Information Sciences student at the **IIE (Formerly Varsity Collenge), now Emeris** in **Cape Town** who likes the part of software that most people skip: making it hard to break. I mostly work on **back-end architecture and API design**, and I treat security as part of the design rather than something bolted on at the end. I research APIs, write security documentation, and test my own code the way an attacker would. I also tutored as a 3rd year for the School of Computer Science.
+I was a Computer and Information Sciences student at the **IIE (Formerly Varsity College), now Emeris** in **Cape Town** who likes the part of software that most people skip: making it hard to break. I mostly work on **back-end architecture and API design**, and I treat security as part of the design rather than something bolted on at the end. I research APIs, write security documentation, and test my own code the way an attacker would. I also tutored as a 3rd year for the School of Computer Science.
 
 ```yaml
 focus:       Secure back-end · API security · Application security
@@ -34,7 +34,7 @@ status:      Open to junior / graduate roles
 
 ---
 
-## `> ls ~/stack`
+## Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@ status:      Open to junior / graduate roles
 
 ---
 
-## `> ./threat_model.sh`
+## Threat Model
 
 How I think about securing an application, based on the work I've done on my own projects:
 
@@ -59,7 +59,7 @@ How I think about securing an application, based on the work I've done on my own
 
 ---
 
-## `> git log --featured`
+Featured Projects
 
 <table>
 <tr>
@@ -104,7 +104,7 @@ Flutter app that simulates the South African K53 learner's licence test, with a 
 
 ---
 
-## `> tail -f activity.log`
+## GitHub Activity Log
 
 <div align="center">
 
